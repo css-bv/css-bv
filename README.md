@@ -1,10 +1,10 @@
-# 🦌 Cassandra Barreto
+# 🦌✨ Cassandra Barreto
 
-**`One more bit in the matrix (Developer/Engineer/Gamer)`**
+**`Software Engineer`**
 
 I'm toda bonita 😉.
 
-   <p align="left"> 
+   <p align="left">
       <a href="https://github.com/carlosgrillet?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/carlosgrillet?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/carlosgrillet?tab=repositories&sort=stargazers">
