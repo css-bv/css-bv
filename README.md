@@ -2,7 +2,7 @@
 
 **`Software Engineer`**
 
-I'm toda bonita 😉.
+I like Software & DevOps.
 
    <p align="left">
       <a href="https://github.com/css-bv?tab=followers">
